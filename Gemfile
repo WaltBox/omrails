@@ -17,7 +17,7 @@ gem "bootsnap", require: false
 gem 'bootstrap', '~> 5.3.0.alpha3'
 
 group :development, :test do
-  gem "sqlite3"
+  gem "sqlite3" 
 end
 
 
